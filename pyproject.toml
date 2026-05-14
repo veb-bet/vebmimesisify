@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "vebmimesisify"
-version = "0.1.1"
+version = "0.1.2"
 description = "Библиотека для генерации случайных сценариев, диалогов и событийных логов."
 authors = [{name="veb-bet"}]
 license = {text = "BSD-2-Clause"}
